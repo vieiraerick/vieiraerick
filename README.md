@@ -3,8 +3,8 @@
 
 ### About me
 
-I"m a fullstack developer e I'm currently working developing web application for city hall management.
-I'm graduating in computer engineering, and praticing Typescript, constantly reviewing and training the content of [Rocketseat](https://rocketseat.com.br/) bootcamp.
+Senior .NET developer and Software Architecture student. Developing .NET + React JS + Microsoft Azure solutions.
+I'm graduated in computer engineering, and praticing Typescript, constantly reviewing and training the content of [Rocketseat](https://rocketseat.com.br/) bootcamps.
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=vieiraerick&show_icons=true">
 
